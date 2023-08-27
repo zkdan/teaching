@@ -6,8 +6,9 @@ Wikipedia orange exercise: [HTML](https://github.com/zkdan/teaching/blob/main/ht
 
 
 ## CSS
-Cascade, specificity exercise: [HTML](https://github.com/zkdan/teaching/blob/main/cascade-specificity-ex/css-exercise.html),[CSS](https://github.com/zkdan/teaching/blob/main/cascade-specificity-ex/style.css)
-Flexbox in-class exercise: [HTML](https://github.com/zkdan/teaching/blob/main/flexbox-in-class-starter/flexbox.html), [CSS](https://github.com/zkdan/teaching/blob/main/flexbox-in-class-starter/flexbox-style.css)
+Cascade, specificity exercise:   [HTML](https://github.com/zkdan/teaching/blob/main/cascade-specificity-ex/css-exercise.html), [CSS](https://github.com/zkdan/teaching/blob/main/cascade-specificity-ex/style.css)
+
+Flexbox in-class exercise:   [HTML](https://github.com/zkdan/teaching/blob/main/flexbox-in-class-starter/flexbox.html), [CSS](https://github.com/zkdan/teaching/blob/main/flexbox-in-class-starter/flexbox-style.css)
 
 ## Flexbox resources
 [Flexbox froggy](https://flexboxfroggy.com/)
