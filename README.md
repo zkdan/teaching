@@ -2,12 +2,12 @@
 Exercises for workshops and resources for students
 
 ## HTML
-[Wikipedia orange exercise: HTML](https://github.com/zkdan/teaching/blob/main/html-elements-in-class/scrambled-orange.html)
+Wikipedia orange exercise: [HTML](https://github.com/zkdan/teaching/blob/main/html-elements-in-class/scrambled-orange.html)
 
 
 ## CSS
-[Cascade, specificity exercise: HTML,](https://github.com/zkdan/teaching/blob/main/cascade-specificity-ex/css-exercise.html)[CSS](https://github.com/zkdan/teaching/blob/main/cascade-specificity-ex/style.css)
-[Flexbox in-class exercise: HTML,](https://github.com/zkdan/teaching/blob/main/flexbox-in-class-starter/flexbox.html)[CSS](https://github.com/zkdan/teaching/blob/main/flexbox-in-class-starter/flexbox-style.css)
+Cascade, specificity exercise: [HTML](https://github.com/zkdan/teaching/blob/main/cascade-specificity-ex/css-exercise.html),[CSS](https://github.com/zkdan/teaching/blob/main/cascade-specificity-ex/style.css)
+Flexbox in-class exercise: [HTML](https://github.com/zkdan/teaching/blob/main/flexbox-in-class-starter/flexbox.html), [CSS](https://github.com/zkdan/teaching/blob/main/flexbox-in-class-starter/flexbox-style.css)
 
 ## Flexbox resources
 [Flexbox froggy](https://flexboxfroggy.com/)
