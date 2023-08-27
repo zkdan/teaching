@@ -1,4 +1,4 @@
-# Taching
+# Teaching
 Exercises for workshops and resources for students
 
 ## HTML
