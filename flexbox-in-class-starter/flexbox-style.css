@@ -1,0 +1,19 @@
+/* Don't touch this part! */
+.flex-container{
+  border: 5px dotted black;
+  height:400px;
+}
+.flex-child{
+  height:40px;
+  width: 40px;
+  background:orchid;
+  margin:1px;
+}
+.first{
+  background-color:lime;
+}
+
+.last{
+  background-color:aqua;
+}
+/* End of don't touch this part! */

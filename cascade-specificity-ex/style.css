@@ -1,0 +1,31 @@
+/* What color will the list items be? Why? */
+ul li {
+  color:orange;
+}
+
+li{
+  color:pink;
+}
+
+/* What background-color will the element with a class of hidden have? Why? */
+.hidden{
+  color:white;
+  background-color: white;
+}
+
+.highlight{
+  background-color:yellow;
+}
+
+/* What color will the h1 be? Why?*/
+h1{
+  color:lime;
+}
+
+.main-header{
+  color:aqua;
+}
+
+h1{
+  color:orchid;
+}

@@ -1,0 +1,34 @@
+/* What color will the list items be? Why? */
+/* They will be orange of the cascade. */
+li {
+  color:pink;
+}
+
+li{
+  color:orange;
+}
+
+/* What background-color will the element with a class of hidden have? Why? */
+/* It will be yellow because both classes are of the same specificity so the cascade takes over. */
+.hidden{
+  color:white;
+  background-color: white;
+}
+
+.highlight{
+  background-color:yellow;
+}
+
+/* What color will the h1 be? Why?*/
+/* Aqua because the class selector is more specific than the element selector. */
+h1{
+  color:lime;
+}
+
+.main-header{
+  color:aqua;
+}
+
+h1{
+  color:orchid;
+}
