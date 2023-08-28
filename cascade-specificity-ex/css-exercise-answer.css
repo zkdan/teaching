@@ -1,11 +1,11 @@
 /* What color will the list items be? Why? */
-/* They will be orange of the cascade. */
-li {
-  color:pink;
+/* They will be orange because descendent selectors are more spefiic than element selectors. */
+ul li {
+  color:orange;
 }
 
 li{
-  color:orange;
+  color:pink;
 }
 
 /* What background-color will the element with a class of hidden have? Why? */
