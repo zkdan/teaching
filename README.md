@@ -2,7 +2,7 @@
 Exercises for workshops and resources for students
 
 ## Slides
-HTML CSS Day 1 [here](https://docs.google.com/presentation/d/1l7ahmx9ZvokOGpwb-QzZrdQsi7ada58MNEGY7nsyahw/edit?usp=sharing)
+Slides[here](https://docs.google.com/presentation/d/1l7ahmx9ZvokOGpwb-QzZrdQsi7ada58MNEGY7nsyahw/edit?usp=sharing)
 
 ## HTML
 Wikipedia orange exercise: [HTML](https://github.com/zkdan/teaching/blob/main/html-elements-in-class/scrambled-orange.html)
