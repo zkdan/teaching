@@ -15,6 +15,8 @@ Cascade, specificity exercise:
 Flexbox in-class exercise:   
 [HTML](https://github.com/zkdan/teaching/blob/main/flexbox-in-class-starter/flexbox.html), [CSS](https://github.com/zkdan/teaching/blob/main/flexbox-in-class-starter/flexbox-style.css)
 
+Measurement units exercise
+[HTML]() [CSS]()
 ## Flexbox resources
 [Flexbox froggy](https://flexboxfroggy.com/)
 
@@ -25,3 +27,11 @@ Flexbox in-class exercise:
 [CSS Tricks flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 [Cheat sheet I like](https://res.cloudinary.com/practicaldev/image/fetch/s--wZRwgDoY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/simonpaix/images/blob/main/blog/Flexbox_CheatSheet_LearnPine.png%3Fraw%3Dtrue) by [@simonpaix](https://github.com/simonpaix)
+
+A blog post [on CSS measurement units](https://www.freecodecamp.org/news/css-unit-guide/) from FreeCodeCamp.
+
+## JS
+[Primitive data types exercise](https://github.com/zkdan/teaching/blob/main/primitive-data-types-exercises.js)
+[Objects exercises](https://github.com/zkdan/teaching/blob/main/object-exercise.js)
+[Array exercise](https://github.com/zkdan/teaching/blob/main/array-exercise.js)
+[Function exercises](https://github.com/zkdan/teaching/blob/main/function-exercises.js)
