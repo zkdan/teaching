@@ -32,6 +32,9 @@ A blog post [on CSS measurement units](https://www.freecodecamp.org/news/css-uni
 
 ## JS
 [Primitive data types exercise](https://github.com/zkdan/teaching/blob/main/primitive-data-types-exercises.js)
+
 [Objects exercises](https://github.com/zkdan/teaching/blob/main/object-exercise.js)
+
 [Array exercise](https://github.com/zkdan/teaching/blob/main/array-exercise.js)
+
 [Function exercises](https://github.com/zkdan/teaching/blob/main/function-exercises.js)
