@@ -38,3 +38,9 @@ A blog post [on CSS measurement units](https://www.freecodecamp.org/news/css-uni
 [Array exercise](https://github.com/zkdan/teaching/blob/main/array-exercise.js)
 
 [Function exercises](https://github.com/zkdan/teaching/blob/main/function-exercises.js)
+
+[Spread](https://github.com/zkdan/teaching/blob/main/spread-exercise.js)
+
+[Rest](https://github.com/zkdan/teaching/blob/main/rest-exercise.js)
+
+[Destructuring exercise](https://github.com/zkdan/teaching/blob/main/destructuring-exercise.js) 
