@@ -44,3 +44,5 @@ A blog post [on CSS measurement units](https://www.freecodecamp.org/news/css-uni
 [Rest](https://github.com/zkdan/teaching/blob/main/rest-exercise.js)
 
 [Destructuring exercise](https://github.com/zkdan/teaching/blob/main/destructuring-exercise.js) 
+
+[Drawing starter](https://github.com/zkdan/teaching/blob/main/basic-drawing-starter.html)
