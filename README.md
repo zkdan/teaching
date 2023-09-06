@@ -46,3 +46,7 @@ A blog post [on CSS measurement units](https://www.freecodecamp.org/news/css-uni
 [Destructuring exercise](https://github.com/zkdan/teaching/blob/main/destructuring-exercise.js) 
 
 [Drawing starter](https://github.com/zkdan/teaching/blob/main/basic-drawing-starter.html)
+
+[React demo app CSS](https://github.com/zkdan/teaching/blob/main/shirt-app.css)
+
+[React demo app PNG](https://github.com/zkdan/teaching/blob/main/tshirt.png)
