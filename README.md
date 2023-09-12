@@ -1,11 +1,14 @@
 # Teaching
-Exercises for workshops and resources for students
+Exercises for workshops and resources for students. Fairly bare bones for the moment. 🦴
 
-## Slides
-Slides [here](https://docs.google.com/presentation/d/1l7ahmx9ZvokOGpwb-QzZrdQsi7ada58MNEGY7nsyahw/edit?usp=sharing)
+
+<!-- ## Slides
+Slides [here](https://docs.google.com/presentation/d/1l7ahmx9ZvokOGpwb-QzZrdQsi7ada58MNEGY7nsyahw/edit?usp=sharing) -->
 
 ## HTML
-Wikipedia orange exercise: [HTML](https://github.com/zkdan/teaching/blob/main/html-elements-in-class/scrambled-orange.html)
+Wikipedia orange exercise: 
+
+[HTML](https://github.com/zkdan/teaching/blob/main/html-elements-in-class/scrambled-orange.html)
 
 
 ## CSS
@@ -15,8 +18,9 @@ Cascade, specificity exercise:
 Flexbox in-class exercise:   
 [HTML](https://github.com/zkdan/teaching/blob/main/flexbox-in-class-starter/flexbox.html), [CSS](https://github.com/zkdan/teaching/blob/main/flexbox-in-class-starter/flexbox-style.css)
 
-Measurement units exercise
-[HTML]() [CSS]()
+<!-- Measurement units exercise
+[HTML]() [CSS]() -->
+
 ## Flexbox resources
 [Flexbox froggy](https://flexboxfroggy.com/)
 
@@ -28,7 +32,7 @@ Measurement units exercise
 
 [Cheat sheet I like](https://res.cloudinary.com/practicaldev/image/fetch/s--wZRwgDoY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/simonpaix/images/blob/main/blog/Flexbox_CheatSheet_LearnPine.png%3Fraw%3Dtrue) by [@simonpaix](https://github.com/simonpaix)
 
-A blog post [on CSS measurement units](https://www.freecodecamp.org/news/css-unit-guide/) from FreeCodeCamp.
+A blog post [on CSS measurement units](https://www.freecodecamp.org/news/css-unit-guide/) from FreeCodeCamp
 
 ## JS
 [Primitive data types exercise](https://github.com/zkdan/teaching/blob/main/primitive-data-types-exercises.js)
@@ -39,14 +43,17 @@ A blog post [on CSS measurement units](https://www.freecodecamp.org/news/css-uni
 
 [Function exercises](https://github.com/zkdan/teaching/blob/main/function-exercises.js)
 
-[Spread](https://github.com/zkdan/teaching/blob/main/spread-exercise.js)
+[Spread exercises](https://github.com/zkdan/teaching/blob/main/spread-exercise.js)
 
-[Rest](https://github.com/zkdan/teaching/blob/main/rest-exercise.js)
+[Rest exercises](https://github.com/zkdan/teaching/blob/main/rest-exercise.js)
 
-[Destructuring exercise](https://github.com/zkdan/teaching/blob/main/destructuring-exercise.js) 
+[Destructuring exercises](https://github.com/zkdan/teaching/blob/main/destructuring-exercise.js) 
 
+## Code-alongs
 [Drawing starter](https://github.com/zkdan/teaching/blob/main/basic-drawing-starter.html)
 
-[React demo app CSS](https://github.com/zkdan/teaching/blob/main/shirt-app.css)
+[React demo app live](https://app.netlify.com/sites/tourmaline-toffee-0fcc00)
 
-[React demo app PNG](https://github.com/zkdan/teaching/blob/main/tshirt.png)
+  [React demo app CSS](https://github.com/zkdan/teaching/blob/main/shirt-app.css)
+
+  [React demo app PNG](https://github.com/zkdan/teaching/blob/main/tshirt.png)
